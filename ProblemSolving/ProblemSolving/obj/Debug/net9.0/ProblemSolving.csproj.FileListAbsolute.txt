@@ -1,0 +1,14 @@
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\bin\Debug\net9.0\ProblemSolving.exe
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\bin\Debug\net9.0\ProblemSolving.deps.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\bin\Debug\net9.0\ProblemSolving.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\bin\Debug\net9.0\ProblemSolving.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\bin\Debug\net9.0\ProblemSolving.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\refint\ProblemSolving.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ProblemSolving.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\obj\Debug\net9.0\ref\ProblemSolving.dll
