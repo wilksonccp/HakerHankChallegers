@@ -1,0 +1,15 @@
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\bin\Debug\net9.0\ProbelmSolving03.exe
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\bin\Debug\net9.0\ProbelmSolving03.deps.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\bin\Debug\net9.0\ProbelmSolving03.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\bin\Debug\net9.0\ProbelmSolving03.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\bin\Debug\net9.0\ProbelmSolving03.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.sourcelink.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\refint\ProbelmSolving03.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ProbelmSolving03.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProbelmSolving03\obj\Debug\net9.0\ref\ProbelmSolving03.dll

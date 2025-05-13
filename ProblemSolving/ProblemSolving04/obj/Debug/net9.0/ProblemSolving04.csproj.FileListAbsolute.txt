@@ -1,0 +1,15 @@
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\bin\Debug\net9.0\ProblemSolving04.exe
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\bin\Debug\net9.0\ProblemSolving04.deps.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\bin\Debug\net9.0\ProblemSolving04.runtimeconfig.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\bin\Debug\net9.0\ProblemSolving04.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\bin\Debug\net9.0\ProblemSolving04.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.AssemblyInfoInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.AssemblyInfo.cs
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.csproj.CoreCompileInputs.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.sourcelink.json
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\refint\ProblemSolving04.dll
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.pdb
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ProblemSolving04.genruntimeconfig.cache
+C:\Users\wilks\OneDrive\Documentos\A MINHA CARREIRA\HakerHankExercises\ProblemSolving\ProblemSolving04\obj\Debug\net9.0\ref\ProblemSolving04.dll
